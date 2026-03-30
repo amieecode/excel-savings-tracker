@@ -11,9 +11,9 @@ This tracker provides a flexible, user-friendly approach to personal finance man
 
 ## Features
 1. Year Selection
-- Select the year for which you are tracking savings.
+-- Select the year for which you are tracking savings.
 2. Dynamic Month Selection
-- Choose a month from a dropdown to view or edit data for that month.
+-- Choose a month from a dropdown to view or edit data for that month.
 3. Yearly & Monthly Target Management
 - Enter a yearly savings goal.
 - Monthly targets can either be calculated automatically (Yearly Target ÷ 12) or entered manually using a toggle switch.
