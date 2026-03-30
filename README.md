@@ -18,6 +18,7 @@ This tracker provides a flexible, user-friendly approach to personal finance man
     - Enter a yearly savings goal.
     - Monthly targets can either be calculated automatically (Yearly Target ÷ 12) or entered manually using a toggle switch.
 4. Data Table
+
 Track:
     - Date money came in
     - Total income received
